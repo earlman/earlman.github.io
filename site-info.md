@@ -1,2 +1,2 @@
 resources: 
-https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
+https://quinndombrowski.com/blog/2022/05/07/hosting-eleventy-on-github-pages/
